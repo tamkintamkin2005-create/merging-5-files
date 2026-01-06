@@ -1,1 +1,3 @@
 c4 modify a1 file
+c4 modify a1 a2 a3 file
+
